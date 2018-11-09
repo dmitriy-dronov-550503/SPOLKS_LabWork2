@@ -1,0 +1,7 @@
+*
+Debug/*
+Release/*
+
+!.gitignore
+!*.h
+!*.cpp
